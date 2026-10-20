@@ -15,6 +15,7 @@
 
 <!-- 2. TECH STACK & TOOLCHAIN -->
 <div align="center">
+  <h2>🛠️ <code>SYSTEM.CAPABILITIES // TECH STACK</code></h2>
   <img src="https://skillicons.dev/icons?i=python,java,js,c,react,html,css,flask,nodejs,postgres,mysql,vscode,git,github,githubactions&perline=8&theme=dark" alt="Harish's Tech Stack" />
 </div>
 
