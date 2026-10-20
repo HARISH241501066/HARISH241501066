@@ -1,0 +1,5 @@
+# Test & scratch images
+test_*
+mask_*
+photo.jpg
+__pycache__/
